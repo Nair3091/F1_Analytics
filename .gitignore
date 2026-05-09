@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# Virtual environments
+f1_env/
+.venv/
+venv/
+env/
+
+# Jupyter / local tooling
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.*
+*.env
+
+# Spark / Hadoop local artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+_SUCCESS
+_temporary/
+
+# Data and generated outputs
+data/raw/
+data/processed/
+data/features/
+results/
+
+# Model artifacts and checkpoints
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Archives and large local files
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

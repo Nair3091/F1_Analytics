@@ -1,0 +1,8 @@
+pyspark==4.1.1
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.9
+scikit-learn==1.8.0
+torch==2.11.0
+aiohttp==3.13.5
+xgboost==3.2.0
