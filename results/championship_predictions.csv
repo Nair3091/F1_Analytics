@@ -1,0 +1,7 @@
+year,predicted,actual,prob,correct
+2019,Charles Leclerc,Lewis Hamilton,0.927,0
+2020,Alexander Albon,Lewis Hamilton,0.948,0
+2021,Lando Norris,Max Verstappen,0.745,0
+2022,Charles Leclerc,Max Verstappen,0.461,0
+2023,Oscar Piastri,Max Verstappen,0.301,0
+2024,Oscar Piastri,Max Verstappen,0.539,0

@@ -35,9 +35,15 @@ _temporary/
 data/raw/
 data/processed/
 data/features/
-results/*
+results/champ_transformer.pt
+results/circuit_statistics.parquet
+results/constructor_dominance.parquet
+results/driver_statistics.parquet
+results/race_winner_predictions.parquet
+results/race_winner_random_forest
 !results/.gitkeep
-
+F1_Analytics_Abstract.pdf
+F1_Project_Handoff.md
 # Model artifacts and checkpoints
 *.pt
 *.pth
